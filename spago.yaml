@@ -1,0 +1,18 @@
+package:
+  name: payment-state-machine
+  dependencies:
+    - arrays
+    - console
+    - effect
+    - either
+    - integers
+    - maybe
+    - prelude
+    - strings
+  test:
+    main: Test.Main
+    dependencies: []
+workspace:
+  packageSet:
+    registry: 77.8.0
+  extraPackages: {}
